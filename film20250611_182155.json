@@ -1,0 +1,1502 @@
+[
+  {
+    "film_name": "Super 8",
+    "release_date": "2011",
+    "rating": "★★★½",
+    "watch_date": "28"
+  },
+  {
+    "film_name": "Mission: Impossible – The Final Reckoning",
+    "release_date": "2025",
+    "rating": "★★★★",
+    "watch_date": "16"
+  },
+  {
+    "film_name": "Wait, Your Car?",
+    "release_date": "2025",
+    "rating": "★★★★★",
+    "watch_date": "12"
+  },
+  {
+    "film_name": "Bridge of Spies",
+    "release_date": "2015",
+    "rating": "★★★★½",
+    "watch_date": "11"
+  },
+  {
+    "film_name": "The Howling",
+    "release_date": "1981",
+    "rating": "★★★★",
+    "watch_date": "03"
+  },
+  {
+    "film_name": "The Red Shoes",
+    "release_date": "1948",
+    "rating": "★★★★½",
+    "watch_date": "01"
+  },
+  {
+    "film_name": "Hell of a Summer",
+    "release_date": "2023",
+    "rating": "★★★",
+    "watch_date": "27"
+  },
+  {
+    "film_name": "Sinners",
+    "release_date": "2025",
+    "rating": "★★★★½",
+    "watch_date": "24"
+  },
+  {
+    "film_name": "Friday the 13th Part 2",
+    "release_date": "1981",
+    "rating": "★★★",
+    "watch_date": "19"
+  },
+  {
+    "film_name": "Sorcerer",
+    "release_date": "1977",
+    "rating": "★★★★★",
+    "watch_date": "18"
+  },
+  {
+    "film_name": "TRON: Legacy",
+    "release_date": "2010",
+    "rating": "★★★★",
+    "watch_date": "13"
+  },
+  {
+    "film_name": "Tron",
+    "release_date": "1982",
+    "rating": "★★★★",
+    "watch_date": "12"
+  },
+  {
+    "film_name": "The Blob",
+    "release_date": "1988",
+    "rating": "★★★★",
+    "watch_date": "08"
+  },
+  {
+    "film_name": "Waiting for Guffman",
+    "release_date": "1996",
+    "rating": "★★★★",
+    "watch_date": "07"
+  },
+  {
+    "film_name": "Christine",
+    "release_date": "1983",
+    "rating": "★★★★½",
+    "watch_date": "31"
+  },
+  {
+    "film_name": "Friendship",
+    "release_date": "2024",
+    "rating": "★★★★",
+    "watch_date": "13"
+  },
+  {
+    "film_name": "Drop",
+    "release_date": "2025",
+    "rating": "★★★½",
+    "watch_date": "11"
+  },
+  {
+    "film_name": "The Void",
+    "release_date": "2016",
+    "rating": "★★★",
+    "watch_date": "07"
+  },
+  {
+    "film_name": "The Brutalist",
+    "release_date": "2024",
+    "rating": "★★★★★",
+    "watch_date": "24"
+  },
+  {
+    "film_name": "Paddington in Peru",
+    "release_date": "2024",
+    "rating": "★★½",
+    "watch_date": "17"
+  },
+  {
+    "film_name": "E.T. the Extra-Terrestrial",
+    "release_date": "1982",
+    "rating": "★★★★★",
+    "watch_date": "16"
+  },
+  {
+    "film_name": "Mickey 17",
+    "release_date": "2025",
+    "rating": "★★★★½",
+    "watch_date": "13"
+  },
+  {
+    "film_name": "Companion",
+    "release_date": "2025",
+    "rating": "★★★★",
+    "watch_date": "31"
+  },
+  {
+    "film_name": "The Greatest Showman",
+    "release_date": "2017",
+    "rating": "★★★",
+    "watch_date": "19"
+  },
+  {
+    "film_name": "Wolf Man",
+    "release_date": "2025",
+    "rating": "",
+    "watch_date": "16"
+  },
+  {
+    "film_name": "Conclave",
+    "release_date": "2024",
+    "rating": "★★★★",
+    "watch_date": "12"
+  },
+  {
+    "film_name": "Raiders of the Lost Ark",
+    "release_date": "1981",
+    "rating": "★★★★★",
+    "watch_date": "05"
+  },
+  {
+    "film_name": "Death Becomes Her",
+    "release_date": "1992",
+    "rating": "★★★★",
+    "watch_date": "03"
+  },
+  {
+    "film_name": "The September Issue",
+    "release_date": "2009",
+    "rating": "",
+    "watch_date": "02"
+  },
+  {
+    "film_name": "The Thing",
+    "release_date": "1982",
+    "rating": "★★★★★",
+    "watch_date": "01"
+  },
+  {
+    "film_name": "The Wedding Planner",
+    "release_date": "2001",
+    "rating": "",
+    "watch_date": "31"
+  },
+  {
+    "film_name": "Maid in Manhattan",
+    "release_date": "2002",
+    "rating": "",
+    "watch_date": "31"
+  },
+  {
+    "film_name": "Duel",
+    "release_date": "1971",
+    "rating": "★★★★",
+    "watch_date": "30"
+  },
+  {
+    "film_name": "The Big Short",
+    "release_date": "2015",
+    "rating": "★★★★",
+    "watch_date": "26"
+  },
+  {
+    "film_name": "Die Hard",
+    "release_date": "1988",
+    "rating": "★★★★★",
+    "watch_date": "25"
+  },
+  {
+    "film_name": "Nosferatu",
+    "release_date": "2024",
+    "rating": "★★★★½",
+    "watch_date": "16"
+  },
+  {
+    "film_name": "A Complete Unknown",
+    "release_date": "2024",
+    "rating": "★★★★",
+    "watch_date": "13"
+  },
+  {
+    "film_name": "Sleepless in Seattle",
+    "release_date": "1993",
+    "rating": "★★★★★",
+    "watch_date": "08"
+  },
+  {
+    "film_name": "Pitch Perfect",
+    "release_date": "2012",
+    "rating": "★★★★½",
+    "watch_date": "08"
+  },
+  {
+    "film_name": "The Umbrellas of Cherbourg",
+    "release_date": "1964",
+    "rating": "★★★★½",
+    "watch_date": "01"
+  },
+  {
+    "film_name": "The Santa Clause",
+    "release_date": "1994",
+    "rating": "",
+    "watch_date": "28"
+  },
+  {
+    "film_name": "Unaccompanied Minors",
+    "release_date": "2006",
+    "rating": "",
+    "watch_date": "28"
+  },
+  {
+    "film_name": "Wicked",
+    "release_date": "2024",
+    "rating": "★★★★★",
+    "watch_date": "27"
+  },
+  {
+    "film_name": "27 Dresses",
+    "release_date": "2008",
+    "rating": "",
+    "watch_date": "23"
+  },
+  {
+    "film_name": "Heretic",
+    "release_date": "2024",
+    "rating": "★★★½",
+    "watch_date": "23"
+  },
+  {
+    "film_name": "The Substance",
+    "release_date": "2024",
+    "rating": "★★★★",
+    "watch_date": "22"
+  },
+  {
+    "film_name": "Godzilla Minus One",
+    "release_date": "2023",
+    "rating": "★★★★½",
+    "watch_date": "20"
+  },
+  {
+    "film_name": "Gladiator II",
+    "release_date": "2024",
+    "rating": "★★★★",
+    "watch_date": "18"
+  },
+  {
+    "film_name": "Wicked",
+    "release_date": "2024",
+    "rating": "★★★★★",
+    "watch_date": "10"
+  },
+  {
+    "film_name": "The Blair Witch Project",
+    "release_date": "1999",
+    "rating": "★★★★½",
+    "watch_date": "31"
+  },
+  {
+    "film_name": "Killer Klowns from Outer Space",
+    "release_date": "1988",
+    "rating": "★★★½",
+    "watch_date": "30"
+  },
+  {
+    "film_name": "My Old Ass",
+    "release_date": "2024",
+    "rating": "★★★★",
+    "watch_date": "30"
+  },
+  {
+    "film_name": "Woman of the Hour",
+    "release_date": "2023",
+    "rating": "★★★★",
+    "watch_date": "30"
+  },
+  {
+    "film_name": "How to Lose a Guy in 10 Days",
+    "release_date": "2003",
+    "rating": "",
+    "watch_date": "28"
+  },
+  {
+    "film_name": "Ready or Not",
+    "release_date": "2019",
+    "rating": "★★★★",
+    "watch_date": "27"
+  },
+  {
+    "film_name": "Stage Fright",
+    "release_date": "1987",
+    "rating": "★★★★★",
+    "watch_date": "19"
+  },
+  {
+    "film_name": "Phantom of the Paradise",
+    "release_date": "1974",
+    "rating": "★★★★½",
+    "watch_date": "18"
+  },
+  {
+    "film_name": "Anora",
+    "release_date": "2024",
+    "rating": "★★★★★",
+    "watch_date": "15"
+  },
+  {
+    "film_name": "Stage Fright",
+    "release_date": "1987",
+    "rating": "★★★★★",
+    "watch_date": "14"
+  },
+  {
+    "film_name": "[REC]",
+    "release_date": "2007",
+    "rating": "★★★★",
+    "watch_date": "13"
+  },
+  {
+    "film_name": "Pumpkinhead",
+    "release_date": "1988",
+    "rating": "★★★½",
+    "watch_date": "12"
+  },
+  {
+    "film_name": "Strange Darling",
+    "release_date": "2023",
+    "rating": "★★★",
+    "watch_date": "11"
+  },
+  {
+    "film_name": "The Talented Mr. Ripley",
+    "release_date": "1999",
+    "rating": "★★★½",
+    "watch_date": "09"
+  },
+  {
+    "film_name": "Salem's Lot",
+    "release_date": "2024",
+    "rating": "★★½",
+    "watch_date": "06"
+  },
+  {
+    "film_name": "It's What's Inside",
+    "release_date": "2024",
+    "rating": "★★★★",
+    "watch_date": "05"
+  },
+  {
+    "film_name": "Green Room",
+    "release_date": "2015",
+    "rating": "★★★★½",
+    "watch_date": "19"
+  },
+  {
+    "film_name": "In a Violent Nature",
+    "release_date": "2024",
+    "rating": "★★★",
+    "watch_date": "17"
+  },
+  {
+    "film_name": "Hairspray",
+    "release_date": "2007",
+    "rating": "★★★★",
+    "watch_date": "13"
+  },
+  {
+    "film_name": "Blue Ruin",
+    "release_date": "2013",
+    "rating": "",
+    "watch_date": "12"
+  },
+  {
+    "film_name": "Rebel Ridge",
+    "release_date": "2024",
+    "rating": "★★★★½",
+    "watch_date": "11"
+  },
+  {
+    "film_name": "Will & Harper",
+    "release_date": "2024",
+    "rating": "★★★★",
+    "watch_date": "11"
+  },
+  {
+    "film_name": "Saturday Night",
+    "release_date": "2024",
+    "rating": "★★★★",
+    "watch_date": "10"
+  },
+  {
+    "film_name": "Inception",
+    "release_date": "2010",
+    "rating": "★★★★★",
+    "watch_date": "08"
+  },
+  {
+    "film_name": "Prometheus",
+    "release_date": "2012",
+    "rating": "★★★★",
+    "watch_date": "02"
+  },
+  {
+    "film_name": "Party Girl",
+    "release_date": "1995",
+    "rating": "★★★★",
+    "watch_date": "30"
+  },
+  {
+    "film_name": "Aliens",
+    "release_date": "1986",
+    "rating": "★★★★★",
+    "watch_date": "27"
+  },
+  {
+    "film_name": "Chicago",
+    "release_date": "2002",
+    "rating": "★★★★½",
+    "watch_date": "25"
+  },
+  {
+    "film_name": "Alien: Romulus",
+    "release_date": "2024",
+    "rating": "★★★★",
+    "watch_date": "25"
+  },
+  {
+    "film_name": "Alien",
+    "release_date": "1979",
+    "rating": "★★★★★",
+    "watch_date": "23"
+  },
+  {
+    "film_name": "My Cousin Vinny",
+    "release_date": "1992",
+    "rating": "★★★★½",
+    "watch_date": "15"
+  },
+  {
+    "film_name": "Heat",
+    "release_date": "1995",
+    "rating": "★★★★★",
+    "watch_date": "01"
+  },
+  {
+    "film_name": "Trap",
+    "release_date": "2024",
+    "rating": "★★★★",
+    "watch_date": "24"
+  },
+  {
+    "film_name": "Deadpool & Wolverine",
+    "release_date": "2024",
+    "rating": "",
+    "watch_date": "22"
+  },
+  {
+    "film_name": "Twisters",
+    "release_date": "2024",
+    "rating": "★★★★½",
+    "watch_date": "15"
+  },
+  {
+    "film_name": "Twister",
+    "release_date": "1996",
+    "rating": "★★★★",
+    "watch_date": "13"
+  },
+  {
+    "film_name": "Fly Me to the Moon",
+    "release_date": "2024",
+    "rating": "★★★½",
+    "watch_date": "12"
+  },
+  {
+    "film_name": "Army of Darkness",
+    "release_date": "1992",
+    "rating": "★★★★",
+    "watch_date": "27"
+  },
+  {
+    "film_name": "A Quiet Place: Day One",
+    "release_date": "2024",
+    "rating": "★★★★",
+    "watch_date": "24"
+  },
+  {
+    "film_name": "Sunset Boulevard",
+    "release_date": "1950",
+    "rating": "★★★★★",
+    "watch_date": "24"
+  },
+  {
+    "film_name": "Gypsy",
+    "release_date": "1993",
+    "rating": "★★★★",
+    "watch_date": "22"
+  },
+  {
+    "film_name": "Inside Out 2",
+    "release_date": "2024",
+    "rating": "★★★★",
+    "watch_date": "22"
+  },
+  {
+    "film_name": "Coherence",
+    "release_date": "2013",
+    "rating": "★★★★",
+    "watch_date": "20"
+  },
+  {
+    "film_name": "Every Little Step",
+    "release_date": "2008",
+    "rating": "★★★★½",
+    "watch_date": "15"
+  },
+  {
+    "film_name": "Longlegs",
+    "release_date": "2024",
+    "rating": "★★★★",
+    "watch_date": "13"
+  },
+  {
+    "film_name": "The Lost Boys",
+    "release_date": "1987",
+    "rating": "★★★★½",
+    "watch_date": "01"
+  },
+  {
+    "film_name": "The Slumber Party Massacre",
+    "release_date": "1982",
+    "rating": "★★★½",
+    "watch_date": "01"
+  },
+  {
+    "film_name": "IF",
+    "release_date": "2024",
+    "rating": "★★★",
+    "watch_date": "26"
+  },
+  {
+    "film_name": "As Above, So Below",
+    "release_date": "2014",
+    "rating": "★★★",
+    "watch_date": "26"
+  },
+  {
+    "film_name": "The Apprentice",
+    "release_date": "2024",
+    "rating": "★★★★",
+    "watch_date": "20"
+  },
+  {
+    "film_name": "Horizon: An American Saga – Chapter 1",
+    "release_date": "2024",
+    "rating": "★½",
+    "watch_date": "20"
+  },
+  {
+    "film_name": "Emilia Pérez",
+    "release_date": "2024",
+    "rating": "★★★",
+    "watch_date": "19"
+  },
+  {
+    "film_name": "Kinds of Kindness",
+    "release_date": "2024",
+    "rating": "★★★★",
+    "watch_date": "17"
+  },
+  {
+    "film_name": "Furiosa: A Mad Max Saga",
+    "release_date": "2024",
+    "rating": "★★★★½",
+    "watch_date": "16"
+  },
+  {
+    "film_name": "Speed Racer",
+    "release_date": "2008",
+    "rating": "★★★★",
+    "watch_date": "14"
+  },
+  {
+    "film_name": "Dawn of the Planet of the Apes",
+    "release_date": "2014",
+    "rating": "★★★½",
+    "watch_date": "14"
+  },
+  {
+    "film_name": "Mr. Bean's Holiday",
+    "release_date": "2007",
+    "rating": "★★★",
+    "watch_date": "14"
+  },
+  {
+    "film_name": "Mad Max: Fury Road",
+    "release_date": "2015",
+    "rating": "★★★★★",
+    "watch_date": "04"
+  },
+  {
+    "film_name": "Furiosa: A Mad Max Saga",
+    "release_date": "2024",
+    "rating": "★★★★½",
+    "watch_date": "02"
+  },
+  {
+    "film_name": "Jurassic Park",
+    "release_date": "1993",
+    "rating": "★★★★★",
+    "watch_date": "30"
+  },
+  {
+    "film_name": "Late Night with the Devil",
+    "release_date": "2023",
+    "rating": "★★★",
+    "watch_date": "30"
+  },
+  {
+    "film_name": "Challengers",
+    "release_date": "2024",
+    "rating": "★★★★★",
+    "watch_date": "27"
+  },
+  {
+    "film_name": "X",
+    "release_date": "2022",
+    "rating": "★★★★",
+    "watch_date": "14"
+  },
+  {
+    "film_name": "The Nice Guys",
+    "release_date": "2016",
+    "rating": "★★★★½",
+    "watch_date": "31"
+  },
+  {
+    "film_name": "Last Action Hero",
+    "release_date": "1993",
+    "rating": "★★★",
+    "watch_date": "27"
+  },
+  {
+    "film_name": "Tokyo Godfathers",
+    "release_date": "2003",
+    "rating": "★★★★★",
+    "watch_date": "19"
+  },
+  {
+    "film_name": "Perfect Blue",
+    "release_date": "1997",
+    "rating": "★★★★★",
+    "watch_date": "16"
+  },
+  {
+    "film_name": "Paprika",
+    "release_date": "2006",
+    "rating": "★★★★½",
+    "watch_date": "16"
+  },
+  {
+    "film_name": "How to Train Your Dragon",
+    "release_date": "2010",
+    "rating": "★★★★",
+    "watch_date": "14"
+  },
+  {
+    "film_name": "Past Lives",
+    "release_date": "2023",
+    "rating": "★★★★★",
+    "watch_date": "27"
+  },
+  {
+    "film_name": "Dune: Part Two",
+    "release_date": "2024",
+    "rating": "★★★★★",
+    "watch_date": "26"
+  },
+  {
+    "film_name": "American Nightmare",
+    "release_date": "2024",
+    "rating": "★★★★",
+    "watch_date": "24"
+  },
+  {
+    "film_name": "American Fiction",
+    "release_date": "2023",
+    "rating": "★★★½",
+    "watch_date": "23"
+  },
+  {
+    "film_name": "My Cousin Vinny",
+    "release_date": "1992",
+    "rating": "★★★★",
+    "watch_date": "20"
+  },
+  {
+    "film_name": "The Zone of Interest",
+    "release_date": "2023",
+    "rating": "★★★★½",
+    "watch_date": "20"
+  },
+  {
+    "film_name": "Dune: Part Two",
+    "release_date": "2024",
+    "rating": "★★★★½",
+    "watch_date": "15"
+  },
+  {
+    "film_name": "Anatomy of a Fall",
+    "release_date": "2023",
+    "rating": "★★★★½",
+    "watch_date": "06"
+  },
+  {
+    "film_name": "Argylle",
+    "release_date": "2024",
+    "rating": "★★½",
+    "watch_date": "06"
+  },
+  {
+    "film_name": "Lisa Frankenstein",
+    "release_date": "2024",
+    "rating": "★★★★",
+    "watch_date": "06"
+  },
+  {
+    "film_name": "Tenet",
+    "release_date": "2020",
+    "rating": "★★★★½",
+    "watch_date": "02"
+  },
+  {
+    "film_name": "DEVO",
+    "release_date": "2024",
+    "rating": "★★★★½",
+    "watch_date": "22"
+  },
+  {
+    "film_name": "I Saw the TV Glow",
+    "release_date": "2024",
+    "rating": "★★★★",
+    "watch_date": "19"
+  },
+  {
+    "film_name": "No Hard Feelings",
+    "release_date": "2023",
+    "rating": "★★★★",
+    "watch_date": "13"
+  },
+  {
+    "film_name": "Mean Girls",
+    "release_date": "2024",
+    "rating": "★★★½",
+    "watch_date": "09"
+  },
+  {
+    "film_name": "The Color Purple",
+    "release_date": "2023",
+    "rating": "★★★★½",
+    "watch_date": "06"
+  },
+  {
+    "film_name": "Poor Things",
+    "release_date": "2023",
+    "rating": "★★★★",
+    "watch_date": "31"
+  },
+  {
+    "film_name": "Total Recall",
+    "release_date": "1990",
+    "rating": "★★★★",
+    "watch_date": "27"
+  },
+  {
+    "film_name": "Big Trouble in Little China",
+    "release_date": "1986",
+    "rating": "★★★★★",
+    "watch_date": "27"
+  },
+  {
+    "film_name": "The Boy and the Heron",
+    "release_date": "2023",
+    "rating": "★★★★½",
+    "watch_date": "25"
+  },
+  {
+    "film_name": "Krampus",
+    "release_date": "2015",
+    "rating": "★★½",
+    "watch_date": "23"
+  },
+  {
+    "film_name": "Elf",
+    "release_date": "2003",
+    "rating": "★★★★",
+    "watch_date": "22"
+  },
+  {
+    "film_name": "Lars and the Real Girl",
+    "release_date": "2007",
+    "rating": "★★★★½",
+    "watch_date": "21"
+  },
+  {
+    "film_name": "Harry Potter and the Prisoner of Azkaban",
+    "release_date": "2004",
+    "rating": "★★★★½",
+    "watch_date": "17"
+  },
+  {
+    "film_name": "How the Grinch Stole Christmas",
+    "release_date": "2000",
+    "rating": "★★★★½",
+    "watch_date": "17"
+  },
+  {
+    "film_name": "Wonka",
+    "release_date": "2023",
+    "rating": "★★★½",
+    "watch_date": "10"
+  },
+  {
+    "film_name": "May December",
+    "release_date": "2023",
+    "rating": "★★★★★",
+    "watch_date": "03"
+  },
+  {
+    "film_name": "Saltburn",
+    "release_date": "2023",
+    "rating": "★★★",
+    "watch_date": "02"
+  },
+  {
+    "film_name": "The Holdovers",
+    "release_date": "2023",
+    "rating": "★★★★½",
+    "watch_date": "25"
+  },
+  {
+    "film_name": "The Killer",
+    "release_date": "2023",
+    "rating": "★★★★½",
+    "watch_date": "24"
+  },
+  {
+    "film_name": "Knives Out",
+    "release_date": "2019",
+    "rating": "★★★★",
+    "watch_date": "18"
+  },
+  {
+    "film_name": "The Hunger Games: Mockingjay – Part 2",
+    "release_date": "2015",
+    "rating": "★★★",
+    "watch_date": "17"
+  },
+  {
+    "film_name": "The Hunger Games: The Ballad of Songbirds & Snakes",
+    "release_date": "2023",
+    "rating": "★★★★★",
+    "watch_date": "16"
+  },
+  {
+    "film_name": "The Hunger Games: Mockingjay – Part 1",
+    "release_date": "2014",
+    "rating": "★★★",
+    "watch_date": "15"
+  },
+  {
+    "film_name": "The Hunger Games: Catching Fire",
+    "release_date": "2013",
+    "rating": "★★★★",
+    "watch_date": "14"
+  },
+  {
+    "film_name": "The Hunger Games",
+    "release_date": "2012",
+    "rating": "★★★★",
+    "watch_date": "13"
+  },
+  {
+    "film_name": "The Thing",
+    "release_date": "1982",
+    "rating": "★★★★★",
+    "watch_date": "10"
+  },
+  {
+    "film_name": "The Holiday",
+    "release_date": "2006",
+    "rating": "★★★",
+    "watch_date": "09"
+  },
+  {
+    "film_name": "The Hunger Games: The Ballad of Songbirds & Snakes",
+    "release_date": "2023",
+    "rating": "★★★★★",
+    "watch_date": "09"
+  },
+  {
+    "film_name": "Hell Fest",
+    "release_date": "2018",
+    "rating": "★★",
+    "watch_date": "06"
+  },
+  {
+    "film_name": "Eyes Wide Shut",
+    "release_date": "1999",
+    "rating": "★★★★★",
+    "watch_date": "05"
+  },
+  {
+    "film_name": "Good Will Hunting",
+    "release_date": "1997",
+    "rating": "★★★★★",
+    "watch_date": "03"
+  },
+  {
+    "film_name": "Halloween",
+    "release_date": "2018",
+    "rating": "★★★½",
+    "watch_date": "31"
+  },
+  {
+    "film_name": "Don't Breathe",
+    "release_date": "2016",
+    "rating": "★★★★",
+    "watch_date": "30"
+  },
+  {
+    "film_name": "Five Nights at Freddy's",
+    "release_date": "2023",
+    "rating": "",
+    "watch_date": "27"
+  },
+  {
+    "film_name": "Practical Magic",
+    "release_date": "1998",
+    "rating": "★★★★",
+    "watch_date": "25"
+  },
+  {
+    "film_name": "The Fall of the House of Usher",
+    "release_date": "2023",
+    "rating": "★★★★",
+    "watch_date": "23"
+  },
+  {
+    "film_name": "Clue",
+    "release_date": "1985",
+    "rating": "★★★★",
+    "watch_date": "17"
+  },
+  {
+    "film_name": "Scream",
+    "release_date": "1996",
+    "rating": "★★★★★",
+    "watch_date": "15"
+  },
+  {
+    "film_name": "Ferrari",
+    "release_date": "2023",
+    "rating": "★★★★½",
+    "watch_date": "13"
+  },
+  {
+    "film_name": "Hocus Pocus",
+    "release_date": "1993",
+    "rating": "★★★★★",
+    "watch_date": "11"
+  },
+  {
+    "film_name": "Totally Killer",
+    "release_date": "2023",
+    "rating": "★★½",
+    "watch_date": "06"
+  },
+  {
+    "film_name": "Fright Night",
+    "release_date": "1985",
+    "rating": "★★★★★",
+    "watch_date": "04"
+  },
+  {
+    "film_name": "Death Becomes Her",
+    "release_date": "1992",
+    "rating": "★★★★",
+    "watch_date": "03"
+  },
+  {
+    "film_name": "Jennifer's Body",
+    "release_date": "2009",
+    "rating": "★★★★★",
+    "watch_date": "01"
+  },
+  {
+    "film_name": "Fight Club",
+    "release_date": "1999",
+    "rating": "★★★★½",
+    "watch_date": "01"
+  },
+  {
+    "film_name": "A Nightmare on Elm Street Part 2: Freddy's Revenge",
+    "release_date": "1985",
+    "rating": "★★½",
+    "watch_date": "30"
+  },
+  {
+    "film_name": "The Game",
+    "release_date": "1997",
+    "rating": "★★★★",
+    "watch_date": "30"
+  },
+  {
+    "film_name": "No One Will Save You",
+    "release_date": "2023",
+    "rating": "★★★",
+    "watch_date": "26"
+  },
+  {
+    "film_name": "Lake Mungo",
+    "release_date": "2008",
+    "rating": "★★★½",
+    "watch_date": "23"
+  },
+  {
+    "film_name": "The House of the Devil",
+    "release_date": "2009",
+    "rating": "★★★½",
+    "watch_date": "16"
+  },
+  {
+    "film_name": "The Devil Wears Prada",
+    "release_date": "2006",
+    "rating": "★★★★½",
+    "watch_date": "03"
+  },
+  {
+    "film_name": "When Harry Met Sally...",
+    "release_date": "1989",
+    "rating": "★★★★★",
+    "watch_date": "02"
+  },
+  {
+    "film_name": "The Nightmare Before Christmas",
+    "release_date": "1993",
+    "rating": "★★★★★",
+    "watch_date": "31"
+  },
+  {
+    "film_name": "Friday the 13th",
+    "release_date": "1980",
+    "rating": "★★★½",
+    "watch_date": "30"
+  },
+  {
+    "film_name": "Sleepaway Camp",
+    "release_date": "1983",
+    "rating": "★★★",
+    "watch_date": "26"
+  },
+  {
+    "film_name": "Hellraiser",
+    "release_date": "1987",
+    "rating": "★★★★",
+    "watch_date": "24"
+  },
+  {
+    "film_name": "Night of the Creeps",
+    "release_date": "1986",
+    "rating": "★★★",
+    "watch_date": "23"
+  },
+  {
+    "film_name": "Pitch Perfect",
+    "release_date": "2012",
+    "rating": "★★★★",
+    "watch_date": "21"
+  },
+  {
+    "film_name": "Videodrome",
+    "release_date": "1983",
+    "rating": "★★★★½",
+    "watch_date": "21"
+  },
+  {
+    "film_name": "The Burning",
+    "release_date": "1981",
+    "rating": "★★★★",
+    "watch_date": "20"
+  },
+  {
+    "film_name": "Halloween III: Season of the Witch",
+    "release_date": "1982",
+    "rating": "★★★½",
+    "watch_date": "19"
+  },
+  {
+    "film_name": "Pirates of the Caribbean: The Curse of the Black Pearl",
+    "release_date": "2003",
+    "rating": "★★★★½",
+    "watch_date": "18"
+  },
+  {
+    "film_name": "The Parent Trap",
+    "release_date": "1998",
+    "rating": "★★★★",
+    "watch_date": "13"
+  },
+  {
+    "film_name": "Jaws",
+    "release_date": "1975",
+    "rating": "★★★★★",
+    "watch_date": "10"
+  },
+  {
+    "film_name": "Shiva Baby",
+    "release_date": "2020",
+    "rating": "★★★★½",
+    "watch_date": "09"
+  },
+  {
+    "film_name": "Bottoms",
+    "release_date": "2023",
+    "rating": "★★★★½",
+    "watch_date": "09"
+  },
+  {
+    "film_name": "It",
+    "release_date": "2017",
+    "rating": "★★★½",
+    "watch_date": "08"
+  },
+  {
+    "film_name": "2001: A Space Odyssey",
+    "release_date": "1968",
+    "rating": "★★★★★",
+    "watch_date": "06"
+  },
+  {
+    "film_name": "Teenage Mutant Ninja Turtles: Mutant Mayhem",
+    "release_date": "2023",
+    "rating": "★★★★",
+    "watch_date": "04"
+  },
+  {
+    "film_name": "The 'Burbs",
+    "release_date": "1989",
+    "rating": "★★★★",
+    "watch_date": "01"
+  },
+  {
+    "film_name": "Everybody Wants Some!!",
+    "release_date": "2016",
+    "rating": "★★★★",
+    "watch_date": "29"
+  },
+  {
+    "film_name": "Talk to Me",
+    "release_date": "2022",
+    "rating": "★★★★",
+    "watch_date": "28"
+  },
+  {
+    "film_name": "M3GAN",
+    "release_date": "2022",
+    "rating": "★★★½",
+    "watch_date": "27"
+  },
+  {
+    "film_name": "Barbie",
+    "release_date": "2023",
+    "rating": "★★★★½",
+    "watch_date": "26"
+  },
+  {
+    "film_name": "After Hours",
+    "release_date": "1985",
+    "rating": "★★★★★",
+    "watch_date": "23"
+  },
+  {
+    "film_name": "Aliens",
+    "release_date": "1986",
+    "rating": "★★★★★",
+    "watch_date": "22"
+  },
+  {
+    "film_name": "Mission: Impossible – Fallout",
+    "release_date": "2018",
+    "rating": "★★★★",
+    "watch_date": "20"
+  },
+  {
+    "film_name": "Oppenheimer",
+    "release_date": "2023",
+    "rating": "★★★★★",
+    "watch_date": "18"
+  },
+  {
+    "film_name": "Dungeons & Dragons: Honor Among Thieves",
+    "release_date": "2023",
+    "rating": "★★★½",
+    "watch_date": "15"
+  },
+  {
+    "film_name": "Mission: Impossible – Rogue Nation",
+    "release_date": "2015",
+    "rating": "★★★★",
+    "watch_date": "15"
+  },
+  {
+    "film_name": "Barbie",
+    "release_date": "2023",
+    "rating": "★★★★½",
+    "watch_date": "12"
+  },
+  {
+    "film_name": "Mission: Impossible – Ghost Protocol",
+    "release_date": "2011",
+    "rating": "★★★★",
+    "watch_date": "08"
+  },
+  {
+    "film_name": "Mission: Impossible – Dead Reckoning",
+    "release_date": "2023",
+    "rating": "★★★★½",
+    "watch_date": "08"
+  },
+  {
+    "film_name": "Jaws",
+    "release_date": "1975",
+    "rating": "★★★★★",
+    "watch_date": "04"
+  },
+  {
+    "film_name": "Death Proof",
+    "release_date": "2007",
+    "rating": "★★★★½",
+    "watch_date": "02"
+  },
+  {
+    "film_name": "It Follows",
+    "release_date": "2014",
+    "rating": "★★★★",
+    "watch_date": "01"
+  },
+  {
+    "film_name": "War of the Worlds",
+    "release_date": "2005",
+    "rating": "★★★★",
+    "watch_date": "30"
+  },
+  {
+    "film_name": "Jurassic Park",
+    "release_date": "1993",
+    "rating": "★★★★★",
+    "watch_date": "15"
+  },
+  {
+    "film_name": "Indiana Jones and the Dial of Destiny",
+    "release_date": "2023",
+    "rating": "★★★★",
+    "watch_date": "14"
+  },
+  {
+    "film_name": "The Flash",
+    "release_date": "2023",
+    "rating": "★★★",
+    "watch_date": "12"
+  },
+  {
+    "film_name": "The Super Mario Bros. Movie",
+    "release_date": "2023",
+    "rating": "★★★",
+    "watch_date": "09"
+  },
+  {
+    "film_name": "Spider-Man: Across the Spider-Verse",
+    "release_date": "2023",
+    "rating": "★★★★½",
+    "watch_date": "06"
+  },
+  {
+    "film_name": "Transformers: Rise of the Beasts",
+    "release_date": "2023",
+    "rating": "★★★",
+    "watch_date": "03"
+  },
+  {
+    "film_name": "The Exorcist",
+    "release_date": "1973",
+    "rating": "★★★★★",
+    "watch_date": "02"
+  },
+  {
+    "film_name": "Raiders of the Lost Ark",
+    "release_date": "1981",
+    "rating": "★★★★★",
+    "watch_date": "29"
+  },
+  {
+    "film_name": "Barry Lyndon",
+    "release_date": "1975",
+    "rating": "★★★★★",
+    "watch_date": "26"
+  },
+  {
+    "film_name": "Asteroid City",
+    "release_date": "2023",
+    "rating": "★★★★",
+    "watch_date": "24"
+  },
+  {
+    "film_name": "Club Zero",
+    "release_date": "2023",
+    "rating": "★★★★",
+    "watch_date": "22"
+  },
+  {
+    "film_name": "May December",
+    "release_date": "2023",
+    "rating": "★★★★★",
+    "watch_date": "21"
+  },
+  {
+    "film_name": "Killers of the Flower Moon",
+    "release_date": "2023",
+    "rating": "★★★★½",
+    "watch_date": "20"
+  },
+  {
+    "film_name": "Indiana Jones and the Dial of Destiny",
+    "release_date": "2023",
+    "rating": "★★★★",
+    "watch_date": "18"
+  },
+  {
+    "film_name": "The Green Ray",
+    "release_date": "1986",
+    "rating": "★★★★★",
+    "watch_date": "15"
+  },
+  {
+    "film_name": "The Princess Bride",
+    "release_date": "1987",
+    "rating": "★★★★★",
+    "watch_date": "06"
+  },
+  {
+    "film_name": "Evil Dead Rise",
+    "release_date": "2023",
+    "rating": "★★★★",
+    "watch_date": "05"
+  },
+  {
+    "film_name": "Master and Commander: The Far Side of the World",
+    "release_date": "2003",
+    "rating": "★★★★½",
+    "watch_date": "03"
+  },
+  {
+    "film_name": "Romancing the Stone",
+    "release_date": "1984",
+    "rating": "★★★",
+    "watch_date": "30"
+  },
+  {
+    "film_name": "One Cut of the Dead",
+    "release_date": "2017",
+    "rating": "★★★★½",
+    "watch_date": "27"
+  },
+  {
+    "film_name": "The Princess Bride",
+    "release_date": "1987",
+    "rating": "★★★★★",
+    "watch_date": "25"
+  },
+  {
+    "film_name": "28 Days Later",
+    "release_date": "2002",
+    "rating": "★★★★",
+    "watch_date": "23"
+  },
+  {
+    "film_name": "Full Metal Jacket",
+    "release_date": "1987",
+    "rating": "★★★★½",
+    "watch_date": "19"
+  },
+  {
+    "film_name": "The Adventures of Tintin",
+    "release_date": "2011",
+    "rating": "★★★★",
+    "watch_date": "18"
+  },
+  {
+    "film_name": "The Vanishing",
+    "release_date": "1988",
+    "rating": "★★★★½",
+    "watch_date": "16"
+  },
+  {
+    "film_name": "Slumdog Millionaire",
+    "release_date": "2008",
+    "rating": "★★★★",
+    "watch_date": "12"
+  },
+  {
+    "film_name": "Paranormal Activity",
+    "release_date": "2007",
+    "rating": "★★★★",
+    "watch_date": "08"
+  },
+  {
+    "film_name": "Evil Dead II",
+    "release_date": "1987",
+    "rating": "★★★★½",
+    "watch_date": "06"
+  },
+  {
+    "film_name": "The Taking of Pelham One Two Three",
+    "release_date": "1974",
+    "rating": "★★★★★",
+    "watch_date": "04"
+  },
+  {
+    "film_name": "Disney Channel's Theme: A History Mystery",
+    "release_date": "2022",
+    "rating": "★★★★½",
+    "watch_date": "31"
+  },
+  {
+    "film_name": "Renfield",
+    "release_date": "2023",
+    "rating": "★★½",
+    "watch_date": "28"
+  },
+  {
+    "film_name": "John Wick: Chapter 4",
+    "release_date": "2023",
+    "rating": "★★★★",
+    "watch_date": "20"
+  },
+  {
+    "film_name": "Tetris",
+    "release_date": "2023",
+    "rating": "★★★½",
+    "watch_date": "15"
+  },
+  {
+    "film_name": "Shazam! Fury of the Gods",
+    "release_date": "2023",
+    "rating": "★★★",
+    "watch_date": "14"
+  }
+]
