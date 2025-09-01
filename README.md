@@ -21,11 +21,8 @@
 
    pip install requests beautifulsoup4 pandas openpyxl
 или
-
- ```bash
- * python -m pip install requests beautifulsoup4 lxml pandas openpyxl
-
-
+ 
+      ```bash python -m pip install requests beautifulsoup4 lxml pandas openpyxl
 
 2. Запустите скрипт:
    python main.py
