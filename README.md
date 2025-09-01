@@ -18,9 +18,9 @@
 
 1. Установите зависимости:
    ```bash
-   pip install -r requirements.txt
+  * pip install requests beautifulsoup4 pandas openpyxl
    либо :
-   python -m pip install requests beautifulsoup4 lxml pandas openpyxl
+  * python -m pip install requests beautifulsoup4 lxml pandas openpyxl
 
 2. Запустите скрипт:
    python main.py
