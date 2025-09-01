@@ -23,10 +23,16 @@
 или
  * python -m pip install requests beautifulsoup4 lxml pandas openpyxl
 
+
+
 2. Запустите скрипт:
    python main.py
+
+
    
 3. Введите логин пользователя Letterboxd (например, rfeldman9)
+
+
 
 
 4. Получите файл вида: ваш_логин_letterboxd_rates.xlsx
